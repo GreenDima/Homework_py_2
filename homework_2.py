@@ -41,3 +41,11 @@
 # N = int(input("Введите число: "))
 # for i in range(1, N):
 #     print(f"2{i}", end = " ")
+
+# или
+
+# N = int(input("Введите число: "))
+# numberPow = 2
+# while numberPow < N:
+#     print(numberPow, end = " ")
+#     numberPow *= 2
